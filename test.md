@@ -2,8 +2,8 @@
 This is also an H2
 ------------------
 
-*Introducing my quote:
+*Introducing my quote:*
 
-> Neque porro quisquam est qui 
+*> Neque porro quisquam est qui *
 > dolorem ipsum quia dolor sit amet, 
-> consectetur, adipisci velit...*
+> consectetur, adipisci velit...
